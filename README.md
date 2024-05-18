@@ -1,18 +1,17 @@
-### Hi there 👋
-This is my first Git Repository.
+🔭 I’m currently working on improving my coding skills
 <br>
-Author-Aarja Lohar
-<!--
-**lohaarja/lohaarja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 I’m looking to collaborate on projects that helps to improve my problem-solving skills.
+<br>
+🌱 I’m currently learning a new programming lamguage
+<br>
+🧠 I’m interested in ML/AI
+<br>
+⚡ Fun fact : I love learning new stuff
+<br>
+📧 How to reach me : loharaarja@gmail.com
+<br>
+🌐 Socials:
+<br>
+Linkedin-www.linkedin.com/in/aarja-lohar-572b49309
+<br>
+Medium-https://medium.com/@loharaarja
